@@ -159,12 +159,6 @@ PRODUCT_PACKAGES += \
     ssh-keygen \
     start-ssh
 
-# Overlays
-PRODUCT_PACKAGES += \
-    GesturalNavigationOverlayLong \
-    GesturalNavigationOverlayMedium \
-    GesturalNavigationOverlayHidden
-
 # rsync
 PRODUCT_PACKAGES += \
     rsync
